@@ -84,6 +84,11 @@ write_spice(dirMetadata)
 
 
 #   - we then call build_site() which creates a HTML page in a specified dir
+#
+#   - but must first create the destination dir data/vines/docs
+
+
+dir.create(sprintf("%s/docs", dirData))
 
 
 build_site(
