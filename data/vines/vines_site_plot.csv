@@ -1,0 +1,21 @@
+﻿site_id,plot_id,date,plot_aspect,plot_slope_degrees,plot_length_m,plot_width_m,edge_interior,distance_from_edge_m,edge_road,edge_urbanised,edge_agricultural,edge_other,edge_notes,disturbance_notes,canopy_density_percent_visual,height_understorey_m,height_midstorey_m,height_canopy_m
+4,1,29/01/2009,SE,0,10,3,Interior,50,0,0,0,1,Seaward boundary,,93,3,5,10
+4,2,29/01/2009,N,2,10,3,Interior,80,0,0,0,1,Seaward boundary,,95,3,6,10
+4,3,30/01/2009,NW,2,10,3,Interior,30,0,0,0,1,Seaward boundary,,95,3,9,15
+4,4,30/01/2009,SE,1,10,3,Edge,10,0,0,0,1,Large canopy gap,,90,2,8,14
+4,5,30/01/2009,SE,2,10,3,Edge,5,0,0,0,1,Seaward boundary,Wind shear,95,3,4,7
+4,6,31/01/2009,SE,2,10,3,Edge,3,0,0,0,1,"Canopy gap 3m away, 25m from seaward boundary",Canopy gap,87,1,5,10
+4,7,31/01/2009,NW,1,10,3,Interior,50,0,0,0,0,,Fallen trees,92,1,5,9
+4,8,31/01/2009,NE,3,10,3,Interior,60,0,0,0,0,,,92,2,7,10
+4,9,1/02/2009,NE,4,10,3,Interior,40,0,0,0,1,Vegetation boundary - casuarina woodland,,95,1,8,13
+4,10,1/02/2009,E,2,10,3,Interior,75,0,0,0,0,,,95,3,9,13
+5,1,20/02/2009,E,10,10,3,Interior,100,0,0,0,0,,,95,2,4,6
+5,2,20/02/2009,SE,12,10,3,Edge,30,0,0,0,1,Dry rainforest/subtropical RF,,92,2,4,12
+5,3,20/02/2009,N,17,10,3,Edge,20,0,0,0,1,Creek line,,90,1,4,8
+5,4,21/02/2009,E,5,10,3,Interior,100,0,0,0,0,,,95,2,4,8
+5,5,21/02/2009,N,3,10,3,Edge,15,0,0,0,1,tracks & canopy gaps,,85,1,5,12
+5,6,21/02/2009,NW,10,10,3,Interior,60,0,0,0,0,,,92,1,4,9
+5,7,22/02/2009,NE,10,10,3,Edge,20,0,0,0,1,canopy gap,,90,2,6,11
+5,8,22/02/2009,NE,7,10,3,Interior,60,0,0,0,0,,creek line,95,1,4,8
+5,9,22/02/2009,NW,8,10,3,Edge,20,1,0,0,0,,,95,2,5,11
+5,10,22/02/2009,NW,7,10,3,Edge,30,0,0,0,0,,,97,1,4,9
