@@ -1,0 +1,57 @@
+﻿"X. XXXXX, Y. YYYYY, and Z. ZZZZZ Plant traits predict impact of invading species: an analysis of herbaceous vegetation in the subtropics. Australian Journal of Botany 53(8) 757–770",,,,,,,,,
+,,,,,,,,,
+Appendix 1 (relevant columns only),,,,,,,,,
+,,,,,,,,,
+Group,Name,Growth form,life form,height,leaf area mm,Leaf size (cm2),growth season,SLA,dry matter content mg/g
+1,Anagallis arvensis,scrambling or mat forbs,therophyte,<20cm,970,9.7,summer,85,84
+1,Cyperus aggregatus,tussock grass or sedge,hemicryptophyte,<20cm,823,8.2,summer,22,218
+1,Richardia stellaris,scrambling or mat forbs,hemicryptophyte,<20cm,688,6.9,summer,24,181
+1,Cyperus sesquiflorus,tussock grass or sedge,hemicryptophyte,<20cm,602,6,summer,35,203
+1,Paronychia brasiliana,scrambling or mat forbs,hemicryptophyte,<20cm,546,5.5,summer,34,143
+1,Gomphrena celosioides,scrambling or mat forbs,hemicryptophyte,<20cm,780,7.8,summer,21,163
+1,Polygonum aviculare,scrambling or mat forbs,hemicryptophyte,<20cm,414,4.1,summer,23,214
+1,Verbena officinalis,erect forbs,hemicryptophyte,20-40cm,686,6.9,summer,23,212
+1,Medicago lupulina,scrambling or mat forbs,therophyte,20-40cm,688,6.9,year round,30,228
+1,Heliotropium amplexicaule,scrambling or mat forbs,hemicryptophyte,<20cm,3810,38.1,summer,28,159
+1,Richardia brasiliensis,scrambling or mat forbs,hemicryptophyte,<20cm,1160,11.6,summer,24,115
+1,Macroptilium atropurpureum,scrambling or mat forbs,hemicryptophyte,<20cm,5700,57,summer,23,194
+1,Lantana montevidensis,scrambling or mat forbs,chamaephyte,<20cm,770,7.7,summer,16,362
+2,Medicago polymorpha,scrambling or mat forbs,therophyte,<20cm,1420,14.2,year round,61,172
+2,Medicago sativa,erect forbs,hemicryptophyte,>40cm,2220,22.2,year round,28,218
+,Trifolium repens,rhizomatous/stoloniferous,hemicryptophyte,<20cm,1600,16,year round,30,200
+2,Plantago lanceolata,rosette/partial rosette forbs,hemicryptophyte,<20cm,3230,32.3,year round,21,135
+2,Verbena rigida,scrambling or mat forbs,hemicryptophyte,2-40cm,2490,24.9,year round,14,266
+3,Bromus catharticus,tussock grass or sedge,therophyte,20-40cm,6290,62.9,summer,22,225
+3,Tagetes minuta,erect forbs,therophyte,>40cm,14400,144,summer,20,231
+3,Gomphocarpus physocarpus,erect forbs,chamaephyte,>40cm,1130,11.3,summer,15,270
+3,Sida rhombifolia,erect forbs,chamaephyte,>40cm,2640,26.4,summer,24,314
+3,Melinis repens,tussock grass or sedge,hemicryptophyte,>40cm,2130,21.3,year round,22,282
+3,Verbena bonariensis,erect forbs,hemicryptophyte,>40cm,2110,21.1,summer,16,263
+3,Verbena litoralis,erect forbs,hemicryptophyte,>40cm,1440,14.4,summer,24,222
+4,Axonopus fissifolius,rhizomatous/stoloniferous,hemicryptophyte,<20cm,1270,12.7,summer,33,203
+4,Cynodon dactylon,rhizomatous/stoloniferous,hemicryptophyte,<20cm,523,5.2,summer,29,289
+4,Cynodon incompletus,rhizomatous/stoloniferous,hemicryptophyte,<20cm,802,8,summer,37,276
+4,Chloris gayana,rhizomatous/stoloniferous,hemicryptophyte,>40cm,2800,28,summer,21,236
+4,Eragrostis curvula,tussock grass or sedge,hemicryptophyte,>40cm,2940,29.4,summer,15,401
+4,Pennisetum clandestinum,rhizomatous/stoloniferous,hemicryptophyte,>40cm,2800,28,summer,25,233
+4,Pennisetum alopecuroides,tussock grass or sedge,hemicryptophyte,>40cm,4220,42.2,summer,18,275
+4,panicum maximum,tussock grass or sedge,hemicryptophyte,>40cm,11600,116,summer,34,220
+4,Paspalum dilatatum,tussock grass or sedge,hemicryptophyte,>40cm,8160,81.6,summer,27,197
+5,Cenchrus incertus,tussock grass or sedge,therophyte,<20cm,797,8,summer,30,177
+5,Setaria pumila,tussock grass or sedge,therophyte,20-40cm,3150,31.5,summer,28,173
+5,Echinochloa colona,tussock grass or sedge,therophyte,<20cm,1350,13.5,summer,34,186
+5,Echinochloa crus-galli,tussock grass or sedge,therophyte,20-40cm,1610,16.1,summer,32,216
+5,Urochloa panicoides,rhizomatous/stoloniferous,therophyte,20-40cm,1570,15.7,summer,31,176
+6,Bidens pilosa,erect forbs,therophyte,>40cm,10700,107,year round,37,160
+6,Sigesbeckia orientalis,erect forbs,therophyte,>40cm,6730,67.3,summer,56,149
+6,Conyza bonariensis,erect forbs,,>40cm,1150,11.5,,36,138
+6,Lactuca saligna,erect forbs,therophyte,>40cm,7610,76.1,year round,37,129
+6,Sonchus oleraceus,rosette/partial rosette forbs,therophyte,20-40cm,6530,65.3,year round,60,94
+6,Cirsium vulgare,rosette/partial rosette forbs,therophyte,>40cm,15500,155,year round,16,125
+6,Conyza sumatrensis,rosette/partial rosette forbs,therophyte,>40cm,3960,39.6,summer,30,151
+7,Ciclospermum leptophyllum,erect forbs,therophyte,20-40cm,1290,12.9,year round,55,158
+7,Lepidium africanum,rosette/partial rosette forbs,hemicryptophyte,20-40cm,1170,11.7,year round,38,134
+7,Gamochaeta americana,rosette/partial rosette forbs,therophyte,<20cm,2210,22.1,year round,44,105
+7,Hypochaeris microcephala,rosette/partial rosette forbs,therophyte,<20cm,2300,23,year round,54,100
+7,Hypochaeris radicata,rosette/partial rosette forbs,hemicryptophyte,<20cm,2000,20,year round,44,78
+7,Lepidium bonariense,rosette/partial rosette forbs,therophyte,<20cm,1240,12.4,year round,44,129
