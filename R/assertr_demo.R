@@ -58,7 +58,7 @@ verify(d, dry_matter_content_mg_per_g > 0)
 #     that dry_matter_content_mg_per_g is greater than 0 AND less than 400
 
 
-verify(d, dry_matter_content_mg_per_g > 0 & dry_matter_content_mg_per_g < 400)
+verify(d, dry_matter_content_mg_per_g >= 100 & dry_matter_content_mg_per_g <= 1000)
 
 
 # N.B. from here on in we'll use the piping operator %>% to pass the data to the
@@ -107,7 +107,7 @@ d %>%
 
 
 #   - assertr functions use dplyr::select() internally, so we can specify multiple columns or a
-#     range of columns using familliar select() syntax
+#     range of columns using familiar select() syntax
 #
 #   - here we use assertr's not_na() predicate function to check that the values in a range of
 #     columns are not NA
@@ -146,7 +146,8 @@ d %>%
 #
 #   - to work with assertr the function must return FALSE if it fails
 #
-#   - here is a function validSpeciesName(), which checks that species names are of a given format
+#   - here is a function validSpeciesName(), which checks that species names are of a given format using
+#     the stringr::str_detect() function
 #
 #   - N.B. the function uses a regular expression to define a pattern that the species name must match;
 #     regular expressions are a powerful tool when working with character strings, and worth looking
@@ -198,7 +199,7 @@ d %>%
 #   - here we check that the number of NA values in any row is within the bounds 0 and 1
 
 
-x <- d %>%
+d %>%
   assert_rows(num_row_NAs, within_bounds(0, 1), dplyr::everything())
 
 
