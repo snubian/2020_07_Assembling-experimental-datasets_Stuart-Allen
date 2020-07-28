@@ -48,10 +48,10 @@ d <-
 #     returns the data
 #
 #   - we can start by checking that dry_matter_content_mg_per_g (a continuous value) is
-#     always greater than zero
+#     always greater than 100
 
 
-verify(d, dry_matter_content_mg_per_g > 0)
+verify(d, dry_matter_content_mg_per_g > 100)
 
 
 #   - we can use logical operators (&, |) to create more complex expressions, e.g. check
