@@ -16,7 +16,7 @@ Demonstration of the `dataspice` package for quick and easy creation of lightwei
 
 **Note:** The `dataspice` package must be installed from GitHub, so you'll need to first install the `devtools` package:
 
-```
+``` r
 #install.packages("devtools")
 devtools::install_github("ropenscilabs/dataspice")
 ```
