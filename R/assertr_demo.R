@@ -55,7 +55,7 @@ verify(d, dry_matter_content_mg_per_g > 100)
 
 
 #   - we can use logical operators (&, |) to create more complex expressions, e.g. check
-#     that dry_matter_content_mg_per_g is greater than 0 AND less than 400
+#     that dry_matter_content_mg_per_g is between 100 and 1000
 
 
 verify(d, dry_matter_content_mg_per_g >= 100 & dry_matter_content_mg_per_g <= 1000)
